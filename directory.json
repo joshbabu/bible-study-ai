@@ -21,6 +21,18 @@
       "email": "",
       "website": "",
       "meetingTimes": ""
+    },
+    {
+      "name": "abc1",
+      "address": "",
+      "city": "xyzz",
+      "state": "",
+      "country": "India",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "meetingTimes": "",
+      "submittedBy": "Anonymous"
     }
   ],
   "meetings": []
